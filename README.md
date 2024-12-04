@@ -23,7 +23,7 @@ To use this project, you’ll need:
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Shubhainder/upload-to-s3.git
 cd your-repo
 ```
 
